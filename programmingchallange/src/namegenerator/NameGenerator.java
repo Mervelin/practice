@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 
 
-public class NameGenerator {
+public class NameGenerator  {
 	public static void main(String[] args){
 		
 	String[] list1 = new String[] {"Ciecho","Miro","S³awo","Dobro"};
